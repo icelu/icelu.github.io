@@ -8,4 +8,4 @@ date: 2015-11-23
 location: "Bangkok, Thailand"
 ---
 
-This is a presentation of my paper "GI-SVM: A sensitive method for predicting genomic islands based on unannotated sequence of a single genome".
+This is a presentation of my paper ["GI-SVM: A sensitive method for predicting genomic islands based on unannotated sequence of a single genome"](https://www.worldscientific.com/doi/abs/10.1142/S0219720016400035).
