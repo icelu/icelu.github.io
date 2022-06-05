@@ -9,12 +9,3 @@ location: "Singapore"
 ---
 
 Laboratory guidance; After class consulting; Assignment marking
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

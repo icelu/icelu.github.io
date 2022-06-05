@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[See complete CV here](https://github.com/icelu/files/bingxin_cv.pdf)
+[See complete CV here](https://icelu.github.io/files/bingxin_cv.pdf)
 
 Education
 ======

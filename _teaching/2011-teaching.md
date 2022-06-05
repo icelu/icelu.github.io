@@ -9,12 +9,3 @@ location: "Shanghai, China"
 ---
 
 Tutorial teaching; Assignment marking
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
