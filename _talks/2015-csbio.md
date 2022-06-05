@@ -3,8 +3,8 @@ title: "Talk on GI-SVM"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2015-csbio
-venue: "CSbio"
-date: 2015-11
+venue: "The 6th International Conference on Computational Systems-Biology and Bioinformatics (CSBio)"
+date: 2015-11-23
 location: "Bangkok, Thailand"
 ---
 

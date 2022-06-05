@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[See complete CV here](https://github.com/icelu/files/bingxin_cv.pdf)
+
 Education
 ======
 * B.Eng. Software Engineering, East China Normal University, 2009
