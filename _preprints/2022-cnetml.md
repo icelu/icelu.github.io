@@ -2,10 +2,10 @@
 title: "CNETML: Maximum likelihood inference of phylogeny from copy number profiles of spatio-temporal samples"
 collection: publications
 permalink: /publications/2022-cnetml
-date: 2018-03-20
+date: 2022-03-20
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.03.18.484889v1'
-citation: 'Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes (2022). CNETML: Maximum likelihood inference of phylogeny from copy number pro les of spatio-temporal samples. bioRxiv: 2022.03.18.484889.'
+citation: 'Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes (2022). CNETML: Maximum likelihood inference of phylogeny from copy number profiles of spatio-temporal samples. bioRxiv: 2022.03.18.484889.'
 ---
 
 # Abstract
