@@ -1,11 +1,9 @@
 ---
 title: "Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in hepatocellular carcinoma: the PLANET study"
 collection: publications
-permalink: /publication/2022-liver-nsr
+permalink: /publications/2022-liver-nsr
 date: 2021-10-29
 venue: 'Nature Genetics'
 paperurl: 'https://academic.oup.com/nsr/article/9/3/nwab192/6414014'
-citation: 'Weiwei Zhai*, Hannah Lai*, Neslihan Arife Kaya*, Jianbin Chen*, Hechuan Yang*, Bingxin Lu*, et al. (2022). Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in Hepatocellular Carcinoma: the PLANET study. National Science Review, 9(3), nwab192. (* co-first authors)'
+citation: 'Weiwei Zhai, Hannah Lai, Neslihan Arife Kaya, Jianbin Chen, Hechuan Yang, Bingxin Lu, Jia Qi Lim, Siming Ma, Sin Chi Chew, Khi Pin Chua, Jacob Josiah Santiago Alvarez, Pauline Jieqi Chen, Mei Mei Chang, Lingyan Wu, Brian K P Goh, Alexander Yaw-Fui Chung, Chung Yip Chan, Peng Chung Cheow, Ser Yee Lee, Juinn Huar Kam, Alfred Wei-Chieh Kow, Iyer Shridhar Ganpathi, Rawisak Chanwat, Jidapa Thammasiri, Boon Koon Yoong, Diana Bee-Lan Ong, Vanessa H de Villa, Rouchelle D Dela Cruz, Tracy Jiezhen Loh, Wei Keat Wan, Zeng Zeng, Anders Jacobsen Skanderup, Yin Huei Pang, Krishnakumar Madhavan, Tony Kiat-Hon Lim, Glenn Bonney, Wei Qiang Leow, Valerie Chew, Yock Young Dan, Wai Leong Tam, Han Chong Toh, Roger Sik-Yin Foo, Pierce Kah-Hoe Chow, Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in hepatocellular carcinoma: the PLANET study, National Science Review, Volume 9, Issue 3, March 2022, nwab192, https://doi.org/10.1093/nsr/nwab192'
 ---
-
-[Download paper here](https://watermark.silverchair.com/nwab192.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtcwggLTBgkqhkiG9w0BBwagggLEMIICwAIBADCCArkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjD5lHpwFJ3nyL-IzAgEQgIICiu6HtKce703rLCRySDMeCdWuM-bkh6biCUvkWJiYJjpKNNLkuU6tdIoi-zDPH67wIOEW0bHsh6tFUnXAM__FzfXXQf2Du6b38VLP2Oo0lzpuFmNpEIHq-S41EaQhnBnEibhLXmdZ1-BpLcct4J9x2RDEUhByL7XsZGkUog3_z3RxQZnbq4oInji83bGa2gNhvsllLfpIK14GqMKM9wxSoULlWiklRKMkDPDD9rsf1fAC3txSfGNj8ewqww8TZA0lD6RtMz7ukn8kUK6inBYCOWRWAAMi1g94jLINI-V0V-FlHDcUHLSRGRc7s2lHWZCdBcF5DZatcXfmpGCMzKe_NJta-ws7HULniOH-byTW3Is5ZtF1pFt0nWhC68TksiPOw5vr16rVsZdC6n7YNCDTmTyGwehE1eNDuotPxNw7bVcDHv1n6ztrBSsrg7uvfnxbvv6mAE295tUO7_yYSdal2W2zV2iJFBKUpNhsHIDKBSTYmrmGG3vZUF4c8BRQquN8O22tJewCHt9-1SfkGb-HNEhKXtyjbHDeCFt1wZTVtnLrEpAE_rIkj-XNYcA2MKtSPBmqlakl8eivAlclJ4KaIuj_IlN1nBH0xXHBnbHtTBDxC6Jv2BUqL578M2ut1ENQ2Ezqoak8ww1uFYSEu_nPMTvy88-FFT56L_e3zh81Na5edM5Uw_iduIJEpikGtbITMPDFUhbKdug25D3GucW__9e4HC6s2Zc5csNTvfF6hqYoK27HmdSRzFjdHqb5vMlahRbcdjeNz-nx2zzhqxlWzKEo5Kh-r2x_p_FKHJ7_7yVpdochoZU8kNr395dXpfenW44dlKvmqUbStYnS4nowqC77mIxOyP1hS9Df)
