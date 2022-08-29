@@ -1,5 +1,5 @@
 ---
-title: "Programs for verification of phylogenetic networks"
+title: "Computer program for verification of phylogenetic networks"
 collection: posters
 type: "Poster"
 permalink: /posters/phylonet
