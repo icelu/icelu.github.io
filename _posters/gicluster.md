@@ -3,7 +3,7 @@ title: "GI-Cluster: Detecting genomic islands in newly sequenced microbial genom
 collection: posters
 type: "Poster"
 permalink: /posters/gicluster
-venue: "The 21st International Conference on Research in Computational Molecular Biology (RECOMB) 2017"
+venue: "The 21st International Conference on Research in Computational Molecular Biology (RECOMB)"
 date: 2017-05-06
 location: "Hong Kong, China"
 ---

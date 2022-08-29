@@ -3,7 +3,7 @@ title: "Computer program for verification of phylogenetic networks"
 collection: posters
 type: "Poster"
 permalink: /posters/phylonet
-venue: "The 21st International Conference on Research in Computational Molecular Biology (RECOMB) 2017"
+venue: "The 21st International Conference on Research in Computational Molecular Biology (RECOMB)"
 date: 2017-05-06
 location: "Hong Kong, China"
 ---
