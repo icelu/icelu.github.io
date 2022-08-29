@@ -20,6 +20,7 @@ Education
 Work experience
 ======
 * Postdoctoral Fellow, Genome Institute of Singapore, 2017-2018
+* Postdoctoral Fellow, University College London, 2019-present
 
 
 Publications
@@ -39,7 +40,7 @@ Posters
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching

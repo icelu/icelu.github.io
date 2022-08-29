@@ -14,13 +14,11 @@ Please find the most updated list of publications on [Google Scholar](https://sc
 {% include base_path %}
 
 ## Preprints
-
-   <ul>{% for post in site.preprints reversed %}
-      {% include archive-single.html %}
-   {% endfor %}</ul>
+<ul>{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
 
 ## Peer-reviewed journal
-
-   <ul>{% for post in site.publications reversed %}
-     {% include archive-single.html %}
-   {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+ {% include archive-single.html %}
+{% endfor %}</ul>
