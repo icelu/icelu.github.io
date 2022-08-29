@@ -28,6 +28,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+Posters
+======
+  <ul>{% for post in site.posters %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}

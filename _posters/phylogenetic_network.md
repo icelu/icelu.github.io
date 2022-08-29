@@ -8,4 +8,4 @@ date: 2017-05-06
 location: "Hong Kong, China"
 ---
 
-Please find the poster [here](https://github.com/icelu/icelu.github.io/tree/master/files/poster_giclusterphylogenetic_network.pdf
+Please see the poster [here](https://icelu.github.io/files/poster_phylogenetic_network.pdf).
