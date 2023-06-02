@@ -19,9 +19,9 @@ Education
 
 Work experience
 ======
-* Postdoctoral Fellow, Genome Institute of Singapore, 2017-2018
-* Postdoctoral Fellow, University College London, 2019-present
-
+* Postdoctoral Fellow, Genome Institute of Singapore, 09/2017 - 12/2018
+* Postdoctoral Fellow, University College London, 01/2019 - 05/2023
+* Surrey Future Fellow, University of Surrey, 06/2023 -
 
 Publications
 ======
