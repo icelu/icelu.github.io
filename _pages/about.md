@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currenly a [Surrey Future Fellow](https://www.surrey.ac.uk/research/work-with-us/research-fellowships) at [Section of Systems Biology](https://www.surrey.ac.uk/school-biosciences/research/section-systems-biology) University of Surrey. 
+I am currenly a [Surrey Future Fellow](https://www.surrey.ac.uk/research/work-with-us/research-fellowships), at [Section of Systems Biology](https://www.surrey.ac.uk/school-biosciences/research/section-systems-biology) and [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/artificial-intelligence), [University of Surrey](https://www.surrey.ac.uk). 
 
 __I will start my own research group and please do not hesitate to contact me if you are interested in my research.__
 Details of potential projects will come up soon! 
