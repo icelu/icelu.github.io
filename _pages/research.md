@@ -14,7 +14,7 @@ Phylogenetic inference methods have been widely used to reconstruct evolutionary
 
 <figure>
   <a href="/images/cnetml.jpg">
-  <img src="/images/cnetml.jpg" alt = "Phylogeny inference from copy number profiles of multiple samples" />
+  <img src="/images/cnetml.jpg" align="right" alt =  "Phylogeny inference from copy number profiles of multiple samples" />
     </a>
   <figcaption>Phylogeny inference from copy number profiles of multiple samples </figcaption>
 </figure>
@@ -33,7 +33,7 @@ Linking genomics with stochastic modelling and Bayesian inference provides a pow
 
 <figure>
   <a href="/images/abc.jpg">
-  <img src="/images/abc.jpg" alt = "Parameter inference with approximate Bayesian computation (ABC)" />
+  <img src="/images/abc.jpg" align="right" alt =  "Parameter inference with approximate Bayesian computation (ABC)" />
     </a>
   <figcaption>Parameter inference with approximate Bayesian computation (ABC)</figcaption>
 </figure>
@@ -60,7 +60,7 @@ We worked on the analysis of genomic ITH in lung adenocarcinoma (LUAD) and hepat
 
 <figure>
   <a href="/images/psite.jpg">
-  <img src="/images/psite.jpg" alt = "The ﬂow chart of PSiTE" />
+  <img src="/images/psite.jpg" align="right" alt =  "The ﬂow chart of PSiTE" />
     </a>
   <figcaption>The ﬂow chart of PSiTE</figcaption>
 </figure>
@@ -89,7 +89,7 @@ We have developed two machine learning methods to predict genomic islands (GIs),
 
 <figure>
   <a href="/images/gicluster.jpg">
-  <img src="/images/gicluster.jpg" alt = "The ﬂow chart of GI-Cluster" />
+  <img src="/images/gicluster.jpg" align="right" alt =  "The ﬂow chart of GI-Cluster" />
     </a>
   <figcaption>The ﬂow chart of GI-Cluster</figcaption>
 </figure>
@@ -115,7 +115,7 @@ Phylogenetic networks are becoming essential to represent complex evolutionary r
 
 <figure>
   <a href="/images/phynetwork.jpg">
-  <img src="/images/phynetwork.jpg" alt = "An example of a phylogenetic network" />
+  <img src="/images/phynetwork.jpg" align="right" alt =  "An example of a phylogenetic network" />
     </a>
   <figcaption>An example of a phylogenetic network</figcaption>
 </figure>
@@ -160,7 +160,7 @@ SVs often alter large genomic regions and play an important role in cancer progr
 
 <figure>
   <a href="/images/graph.jpg">
-  <img src="/images/graph.jpg" alt = "An example of reconstructed cancer genome graphs" />
+  <img src="/images/graph.jpg" align="right" alt = "An example of reconstructed cancer genome graphs" />
     </a>
   <figcaption>An example of reconstructed cancer genome graphs</figcaption>
 </figure>
