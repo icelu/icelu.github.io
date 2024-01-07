@@ -16,7 +16,7 @@ Phylogenetic inference methods have been widely used to reconstruct evolutionary
   <a href="/images/cnetml.jpg">
   <img src="/images/cnetml.jpg" align="right" alt =  "Phylogeny inference from copy number profiles of multiple samples" />
     </a>
-  <figcaption>Phylogeny inference from copy number profiles of multiple samples </figcaption>
+  <!-- <figcaption>Phylogeny inference from copy number profiles of multiple samples </figcaption> -->
 </figure>
 
 Using copy number alterations (CNAs) as markers, we have developed CNETML,the first program to jointly infer the tree topology, node ages, and CNA rates from longitudinal samples.
@@ -35,7 +35,7 @@ Linking genomics with stochastic modelling and Bayesian inference provides a pow
   <a href="/images/abc.jpg">
   <img src="/images/abc.jpg" align="right" alt =  "Parameter inference with approximate Bayesian computation (ABC)" />
     </a>
-  <figcaption>Parameter inference with approximate Bayesian computation (ABC)</figcaption>
+  <!-- <figcaption>Parameter inference with approximate Bayesian computation (ABC)</figcaption> -->
 </figure>
 
 We have applied this approach to model CNAs and structural variants (SVs) resulted from chromosome instability from experimental and real patient data. 
@@ -62,7 +62,7 @@ We worked on the analysis of genomic ITH in lung adenocarcinoma (LUAD) and hepat
   <a href="/images/psite.jpg">
   <img src="/images/psite.jpg" align="right" alt =  "The ﬂow chart of PSiTE" />
     </a>
-  <figcaption>The ﬂow chart of PSiTE</figcaption>
+  <!-- <figcaption>The ﬂow chart of PSiTE</figcaption> -->
 </figure>
 
 
@@ -91,7 +91,7 @@ We have developed two machine learning methods to predict genomic islands (GIs),
   <a href="/images/gicluster.jpg">
   <img src="/images/gicluster.jpg" align="right" alt =  "The ﬂow chart of GI-Cluster" />
     </a>
-  <figcaption>The ﬂow chart of GI-Cluster</figcaption>
+  <!-- <figcaption>The ﬂow chart of GI-Cluster</figcaption> -->
 </figure>
 
 
@@ -117,7 +117,7 @@ Phylogenetic networks are becoming essential to represent complex evolutionary r
   <a href="/images/phynetwork.jpg">
   <img src="/images/phynetwork.jpg" align="right" alt =  "An example of a phylogenetic network" />
     </a>
-  <figcaption>An example of a phylogenetic network</figcaption>
+  <!-- <figcaption>An example of a phylogenetic network</figcaption> -->
 </figure>
 
 
@@ -162,7 +162,7 @@ SVs often alter large genomic regions and play an important role in cancer progr
   <a href="/images/graph.jpg">
   <img src="/images/graph.jpg" align="right" alt = "An example of reconstructed cancer genome graphs" />
     </a>
-  <figcaption>An example of reconstructed cancer genome graphs</figcaption>
+  <!-- <figcaption>An example of reconstructed cancer genome graphs</figcaption> -->
 </figure>
 
 Due to the extreme variety of SVs, graph-based genome representation provides a natural way to analyze SVs, but the utilities of these graphs have not been fully exploited.
