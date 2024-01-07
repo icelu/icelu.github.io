@@ -34,6 +34,6 @@ Please do not hesitate to email me a short cover letter and CV.
 I am also glad to host postdocs who are interested in applying for relatively independent fellowships.
 
 #### Potential opportunities
-* [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+* [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [Branco Weiss Fellowship](https://brancoweissfellowship.org)
 

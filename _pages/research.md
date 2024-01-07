@@ -15,8 +15,8 @@ Using copy number alterations (CNAs) as markers, we have developed CNETML,the fi
 We are interested to develop new methods to enrich the toolbox of cancer phylogenetics.
 
 <figure>
-  <a href="/images/cnetml.pdf">
-  <img src="/images/cnetml.pdf" alt = "Phylogeny inference from copy number profiles of multiple samples" />
+  <a href="/images/cnetml.jpg">
+  <img src="/images/cnetml.jpg" alt = "Phylogeny inference from copy number profiles of multiple samples" />
     </a>
   <figcaption>Phylogeny inference from copy number profiles of multiple samples </figcaption>
 </figure>
@@ -34,8 +34,8 @@ We are interested to improve the inference at a higher resolution with increasin
 
 
 <figure>
-  <a href="/images/abc.pdf">
-  <img src="/images/abc.pdf" alt = "Parameter inference with approximate Bayesian computation (ABC)" />
+  <a href="/images/abc.jpg">
+  <img src="/images/abc.jpg" alt = "Parameter inference with approximate Bayesian computation (ABC)" />
     </a>
   <figcaption>Parameter inference with approximate Bayesian computation (ABC)</figcaption>
 </figure>
@@ -55,8 +55,8 @@ To evaluate the performances of different variant callers and clonal decompositi
 We are interested to develop new methods to decompose ITH and decipher clonal evolution.
 
 <figure>
-  <a href="/images/psite.pdf">
-  <img src="/images/psite.pdf" alt = "The ﬂow chart of PSiTE" />
+  <a href="/images/psite.jpg">
+  <img src="/images/psite.jpg" alt = "The ﬂow chart of PSiTE" />
     </a>
   <figcaption>The ﬂow chart of PSiTE</figcaption>
 </figure>
@@ -80,8 +80,8 @@ We have developed two machine learning methods to predict genomic islands (GIs),
 In collaboration with [Dr Tim Downing](https://www.pirbright.ac.uk/users/dr-tim-downing), [Dr Caroline Wright](https://www.pirbright.ac.uk/users/dr-caroline-wright), and [Dr Xiatian Zhu](https://surrey-uplab.github.io/), we will apply and adapt these methods to nucleocytoplasmic large DNA viruses which cause extensive livestock diseases. 
 
 <figure>
-  <a href="/images/gicluster.pdf">
-  <img src="/images/gicluster.pdf" alt = "The ﬂow chart of GI-Cluster" />
+  <a href="/images/gicluster.jpg">
+  <img src="/images/gicluster.jpg" alt = "The ﬂow chart of GI-Cluster" />
     </a>
   <figcaption>The ﬂow chart of GI-Cluster</figcaption>
 </figure>
@@ -104,8 +104,8 @@ In collaboration with [Prof. Louxin Zhang](https://blog.nus.edu.sg/louxinzhang/)
 We are interested to solve other related problems.
 
 <figure>
-  <a href="/images/phynetwork.pdf">
-  <img src="/images/phynetwork.pdf" alt = "An example of a phylogenetic network" />
+  <a href="/images/phynetwork.jpg">
+  <img src="/images/phynetwork.jpg" alt = "An example of a phylogenetic network" />
     </a>
   <figcaption>An example of a phylogenetic network</figcaption>
 </figure>
@@ -149,8 +149,8 @@ We are interested to develop new approaches to better understand the patterns an
 
 
 <figure>
-  <a href="/images/graph.pdf">
-  <img src="/images/graph.pdf" alt = "An example of reconstructed cancer genome graphs" />
+  <a href="/images/graph.jpg">
+  <img src="/images/graph.jpg" alt = "An example of reconstructed cancer genome graphs" />
     </a>
   <figcaption>An example of reconstructed cancer genome graphs</figcaption>
 </figure>
