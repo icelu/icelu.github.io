@@ -76,7 +76,6 @@ Alexandra Sockell, Wing H. Wong, Katherine Liu, Amanda Mah, Yuan-Hung Lo, Bingxi
 ## Detecting lateral gene transfer and recombination in microbial genomes 
 Lateral gene transfer (LGT) and recombination are common and important evolutionary processes in microbes.
 We have developed two machine learning methods to predict genomic islands (GIs), a large genomic region probably acquired by LGT which may contain genes related to pathogenesis and antibiotic resistance.
-
 In collaboration with [Dr Tim Downing](https://www.pirbright.ac.uk/users/dr-tim-downing), [Dr Caroline Wright](https://www.pirbright.ac.uk/users/dr-caroline-wright), and [Dr Xiatian Zhu](https://surrey-uplab.github.io/), we will apply and adapt these methods to nucleocytoplasmic large DNA viruses which cause extensive livestock diseases. 
 
 <figure>
@@ -123,7 +122,6 @@ We are interested to solve other related problems.
 ## Integrating multi-omics data to characterize cancer evolution and beyond
 
 To understand all the underlying processes shaping cancer evolution and inform treatment, it is necessary to integrate data measurements of various types. High-throughput sequencing has been generating huge amounts of multi-omics data, which provide a rich resource of information to address important questions in cancer evolution. However, it is challenging to systematically integrate these heterogeneous data types. 
-
 Machine learning (ML) has emerged as a promising technique for multi-omics data integration, but there are still many challenges including data of high dimension yet low sample size, data noise and missing information, and biological interpretations.
 We are interested to develop new ML methods to facilitate the integration of multi-omics data. 
 
@@ -138,7 +136,6 @@ We are interested to develop new ML methods to facilitate the integration of mul
 
 ## Drug repurposing with ex vivo drug sensitivity testing and computational omics
 Despite multiple options and drugs to treat cancer, treatments often fail due to intratumour heterogeneity, metastasis, and drug resistance. However, it remains very expensive and time-consuming to develop new cancer drugs. Drug repurposing serves as a cost-effective option to provide patients with affordable and effective individualized treatments.  
-
 In collaboration with [Dr Mutsa Takundwa](https://www.linkedin.com/in/drmutsa/?originalSubdomain=za), we will develop new integrative strategies with machine learning to identify effective drug combinations for cancers of interest.
 
 
