@@ -10,8 +10,10 @@ redirect_from:
 
 I am currently a [Surrey Future Fellow](https://www.surrey.ac.uk/research/work-with-us/research-fellowships), at [Section of Systems Biology](https://www.surrey.ac.uk/school-biosciences/research/section-systems-biology) and [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/artificial-intelligence), [University of Surrey](https://www.surrey.ac.uk). 
 
-__As I am setting up my research group, I am actively recruiting PhDs and Postdocs.
-Please see [Group](research.md) for potential opportunities.__
+
+__As I am setting up my research group, I am actively recruiting PhDs and Postdocs.__
+I am excited to receive a three-year MRC new investigator research grant recently and will start to recruit a Postdoc to work on the project soon!
+Please see [Group](group.md) for potential opportunities.
 
 
 Previously, I was a Postdoc in [Chris Barnes’s group](https://ucl-cssb.github.io) at [Department of Cell and Developmental Biology, University College London](), where I remain as a visitor and have been working on dynamical modeling of chromosomal instability (CIN) in cancer genomes. 
