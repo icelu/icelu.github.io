@@ -31,7 +31,7 @@ With the recent MRC award, we will develop better methods to enrich the toolbox 
 * Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes (2023). CNETML: maximum likelihood inference of phylogeny from copy number profiles of multiple samples. Genome Biology, 24, 144. https://doi.org/10.1186/s13059-023-02983-0.
 
 
-## Computational modelling of human genome
+## Computational modelling of human genomes
 Linking genomics with stochastic modelling and Bayesian inference provides a powerful approach to quantify somatic evolution, which may help to predict disease progression and drug response.
 
 <figure>
