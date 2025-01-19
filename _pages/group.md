@@ -18,7 +18,7 @@ Please do not hesitate to email me a short cover letter and CV.
 
 
 ### PhD
-* [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/bbsrc-wessex-one-health-doctoral-landscape-award)) (Deadline: 28 Feb 2025)
+* [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/bbsrc-wessex-one-health-doctoral-landscape-award) (Deadline: 28 Feb 2025)
   * Measuring poxvirus evolution using machine learning and pangenomics (main supervisor)
   * Machine learning methods for the prediction of viral epidemic potential in global surveillance systems (second supervisor)
   * Retroviromics: developing new computational approaches to understand and address high consequence retroviral threats (second supervisor)
@@ -31,7 +31,7 @@ Please do not hesitate to email me a short cover letter and CV.
 
 ### Postdoc 
 
-I am looking for a Postdoctoral Research Fellow for a 3-year position to work on an exciting project funded by [MRC](https://www.ukri.org/councils/mrc/). The full job descriptions will come up soon. 
+I am looking for a Postdoctoral Research Fellow for a 3-year position to work on an exciting project funded by [MRC](https://www.ukri.org/councils/mrc/). The complete job descriptions will be available soon. 
 * RECAM: Reconstructing Evolutionary dynamics of Copy number Alterations from Multiple samples across cancer types
 
 
