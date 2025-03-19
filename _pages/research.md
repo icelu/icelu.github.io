@@ -21,7 +21,7 @@ Phylogenetic inference methods have been widely used to reconstruct evolutionary
 
 Using copy number alterations (CNAs) as markers, we have developed CNETML,the first program to jointly infer the tree topology, node ages, and CNA rates from longitudinal samples.
 
-With the recent MRC award, we will develop better methods to enrich the toolbox of cancer phylogenetics. 
+With the recent MRC award, we will develop more realistic models of  evolution that integrate CNAs at different levels and Bayesian methods that support variable CNA rates in time. 
 
 ### References:
 * Bingxin Lu. (2024). Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data. Cancer Pathogenesis and Therapy, 2, E27-E77. https://doi.org/10.1016/j.cpt.2024.04.003
