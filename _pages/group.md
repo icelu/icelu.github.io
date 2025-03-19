@@ -31,8 +31,8 @@ Please do not hesitate to email me a short cover letter and CV.
 
 ### Postdoc 
 
-I am looking for a Postdoctoral Research Fellow for a 3-year position to work on an exciting project funded by [MRC](https://www.ukri.org/councils/mrc/). The complete job descriptions will be available soon. 
-* RECAM: Reconstructing Evolutionary dynamics of Copy number Alterations from Multiple samples across cancer types
+I am looking for a Postdoctoral Research Fellow for a 3-year position to work on an exciting project funded by [MRC](https://www.ukri.org/councils/mrc/). Please see more details [here](https://jobs.surrey.ac.uk/Vacancy.aspx?id=14735&forced=2). 
+* RECAM: Reconstructing evolutionary dynamics of chromosomal instability in cancer from longitudinal samples (Deadline: 30 Apr 2025)
 
 
 I am also glad to host postdocs who are interested in applying for relatively independent fellowships:
