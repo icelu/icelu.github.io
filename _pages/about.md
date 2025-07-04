@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [Surrey Future Fellow](https://www.surrey.ac.uk/research/work-with-us/research-fellowships), at [Section of Systems Biology](https://www.surrey.ac.uk/school-biosciences/research/section-systems-biology) and [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/artificial-intelligence), [University of Surrey](https://www.surrey.ac.uk). 
+I am currently a Lecturer and [Surrey Future Fellow](https://www.surrey.ac.uk/research/work-with-us/research-fellowships), at [Section of Systems Biology](https://www.surrey.ac.uk/school-biosciences/research/section-systems-biology) and [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/artificial-intelligence), [University of Surrey](https://www.surrey.ac.uk). 
 
 
 __As I am setting up my research group, I am actively recruiting PhDs and Postdocs.__
