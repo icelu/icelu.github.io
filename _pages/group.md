@@ -11,10 +11,12 @@ author_profile: true
 {% include base_path %}
 
 ## Mission statement
-Transforming data into discovery through innovative computation to unlock biological insights for human health
+We aim to transform data into discovery through innovative computation to unlock biological insights for human health.
 
 ## Lab culture
 Dedicate, Innovate, Collaborate
+
+We strive for excellence by combining dedication with innovation, while nurturing a culture of respect and collegiality.
 
 <!-- ## Lab guide -->
 
@@ -46,7 +48,7 @@ I will look for a Postdoctoral Research Fellow for a one-year position to work o
 * RECAM: Reconstructing Evolutionary dynamics of Copy number Alterations from Multiple samples across cancer types. 
 
 
-I am also glad to host postdocs who are interested in applying for relatively independent fellowships:
+I am also glad to host postdocs who are interested in applying for relatively independent fellowships, such as:
 * [Newton International Fellowship](https://royalsociety.org/grants/newton-international/) 
 * [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [Branco Weiss Fellowship](https://brancoweissfellowship.org)
@@ -60,19 +62,20 @@ I am also glad to host postdocs who are interested in applying for relatively in
 
 ### MSc
 #### AI institute
+* Anand Shah
 * Arya Brijith Kumar
 * Jomchai Chongthanakorn
-* Anand Shah
+
 
 ### Undergraduate
 #### School of Biosciences
+* Sivaranjan Johnson (Professional Training Placement)
+
 * Tass Abdessalem 
   * Tass and his poster presented at [ISMB 2025](https://www.iscb.org/ismbeccb2025/home)
   <!-- ![Parfait](/images/Tass_ISMB2025.jpeg) -->
   <img src="/images/Tass_ISMB2025.jpeg" alt="Parfait" width="50%"/>
   
-* Sivaranjan Johnson
-
 
 
 ### Graduated students 
