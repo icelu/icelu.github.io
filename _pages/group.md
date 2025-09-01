@@ -10,20 +10,31 @@ author_profile: true
 
 {% include base_path %}
 
+## Mission statement
+Transforming data into discovery through innovative computation to unlock biological insights for human health
+
+## Lab culture
+Dedicate, Innovate, Collaborate
+
+<!-- ## Lab guide -->
+
 
 ## Opportunities
 
-I welcome enquiries from potential PhD candidates and Postdocs interested in computational biology and aligned with my [research interests](research.md).
+I welcome enquiries from prospective PhD candidates and Postdocs interested in computational biology and aligned with my [research interests](research.md).
+
+I am also happy to supervise undergraduate and Master’s students who wish to explore my research areas.
+
 Please do not hesitate to email me a short cover letter and CV.
 
 
 ### PhD
-* [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/bbsrc-wessex-one-health-doctoral-landscape-award) (Deadline: 28 Feb 2025)
+<!-- * [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/bbsrc-wessex-one-health-doctoral-landscape-award) (Deadline: 28 Feb 2025)
   * Measuring poxvirus evolution using machine learning and pangenomics (main supervisor)
   * Machine learning methods for the prediction of viral epidemic potential in global surveillance systems (second supervisor)
-  * Retroviromics: developing new computational approaches to understand and address high consequence retroviral threats (second supervisor)
+  * Retroviromics: developing new computational approaches to understand and address high consequence retroviral threats (second supervisor) -->
   
-* [China Scholarship Council-Surrey Awards](https://www.surrey.ac.uk/fees-and-funding/studentships/china-scholarship-council-surrey-awards) (Deadline: 27 Jan 2025)
+* [China Scholarship Council-Surrey Awards](https://www.surrey.ac.uk/fees-and-funding/studentships/china-scholarship-council-surrey-awards) 
   * [Biosciences and Medicine PhD](https://www.surrey.ac.uk/postgraduate/biosciences-and-medicine-phd)  
   * [Computer Science PhD](https://www.surrey.ac.uk/postgraduate/computer-science-phd)
   * [Vision, Speech and Signal Processing PhD](https://www.surrey.ac.uk/postgraduate/vision-speech-and-signal-processing-phd)
@@ -41,4 +52,46 @@ I am also glad to host postdocs who are interested in applying for relatively in
 * [Branco Weiss Fellowship](https://brancoweissfellowship.org)
 
 
-<!-- ### Previous members -->
+## Current members
+### Postdoc
+* [Ruolin Wu](https://lynnwrl.github.io/)
+
+### PhD
+
+### MSc
+#### AI institute
+* Arya Brijith Kumar
+* Jomchai Chongthanakorn
+* Anand Shah
+
+### Undergraduate
+#### School of Biosciences
+* Tass Abdessalem 
+  * Tass and his poster presented at [ISMB 2025](https://www.iscb.org/ismbeccb2025/home)
+  <!-- ![Parfait](/images/Tass_ISMB2025.jpeg) -->
+  <img src="/images/Tass_ISMB2025.jpeg" alt="Parfait" width="50%"/>
+  
+* Sivaranjan Johnson
+
+
+
+### Graduated students 
+
+### MSc
+#### School of Biosciences
+* Lottie Venters (2025)
+
+#### AI institute
+* Yasar Efe Pekgoz (2024)
+
+
+### Undergraduate
+#### School of Biosciences
+* Francesca Buot (2025)
+* Beyza Erkal (2024)
+* Kareem Richardson (2024)
+
+
+
+
+<!-- ## Current members -->

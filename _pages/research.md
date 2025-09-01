@@ -19,7 +19,7 @@ Phylogenetic inference methods have been widely used to reconstruct evolutionary
   <!-- <figcaption>Phylogeny inference from copy number profiles of multiple samples </figcaption> -->
 </figure>
 
-Using copy number alterations (CNAs) as markers, we have developed CNETML,the first program to jointly infer the tree topology, node ages, and CNA rates from longitudinal samples.
+Using copy number alterations (CNAs) as markers, we have developed [CNETML](https://github.com/ucl-cssb/cneta),the first program to jointly infer the tree topology, node ages, and CNA rates from longitudinal samples.
 
 With the recent MRC award, we will develop more realistic models of  evolution that integrate CNAs at different levels and Bayesian methods that support variable CNA rates in time. 
 
@@ -49,10 +49,9 @@ We are also interested in applying the latest genomic language models to tackle 
 
 
 ### References:
+* Bingxin Lu, Samuel Winnall, William Cross, Chris P. Barnes (2025). Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability. Nature Communications, 16(3033). https://doi.org/10.1038/s41467-025-58245-z
+
 * William Cross\*, Salpie Nowinski\*, George Cresswell\*, Maximilian Mossner\*, Abhirup Banerjee\*, Bingxin Lu\*, et al. (2024). Negative selection may cause grossly altered but broadly stable karyotypes in metastatic colorectal cancer. bioRxiv: https://doi.org/10.1101/2020.03.26.007138. (* co-first authors)
-
-* Bingxin Lu, Samuel Winnall, William Cross, Chris P. Barnes (2023). Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability. bioRxiv. https://doi.org/10.1101/2024.01.03.574048
-
 
 * Yannik Bollen, Ellen Stelloo, Petra van Leenen, Bas Ponsioen, Myrna van den Bos, Bingxin Lu, et al. (2021). Reconstructing single-cell karyotype alterations in colorectal cancer identifies punctuated and gradual diversification patterns. Nature Genetics, 53(8), 1187-1195. https://doi.org/10.1038/s41588-021-00891-2.
 
@@ -78,6 +77,9 @@ We are interested in developing new methods to decompose ITH and decipher clonal
 ### References:
 * Kasper Karlsson, Moritz Przybilla, Eran Kotler, Aziz Khan, Hang Xu, Kremena Karagyozova,
 Alexandra Sockell, Wing H. Wong, Katherine Liu, Amanda Mah, Yuan-Hung Lo, Bingxin Lu, et al. (2023). Deterministic evolution and stringent selection during preneoplasia. Nature, 618, 383–393. https://doi.org/10.1038/s41586-023-06102-8.
+
+* Jianbin Chen, Neslihan Arife Kaya, Ying Zhang, Raden Indah Kendarsari, Karthik Sekar, Shay Lee Chong, Veerabrahma Pratap Seshachalam, Wen Huan Ling, Cheryl Zi Jin Phua, Hannah Lai, Hechuan Yang, Bingxin Lu, et al. (2024). A multimodal atlas of hepatocellular carcinoma reveals convergent evolutionary paths and ‘bad apple’ effect on clinical trajectory. Journal of Hepatology, 4(81), 667-678. https://doi.org/10.1016/j.jhep.2024.05.017
+
 
 * Weiwei Zhai\*, Hannah Lai\*, Neslihan Arife Kaya\*, Jianbin Chen\*, Hechuan Yang\*, Bingxin Lu\*, et al. (2022). Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in Hepatocellular Carcinoma: the PLANET study. National Science Review, 9(3), nwab192. https://academic.oup.com/nsr/article/9/3/nwab192/6414014. (* co-first authors)
 
