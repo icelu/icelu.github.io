@@ -59,6 +59,8 @@ I am also glad to host postdocs who are interested in applying for relatively in
 * [Ruolin Wu](https://lynnwrl.github.io/)
 
 ### PhD
+* [Robert Radley](https://www.github.com/RRadley)
+  * co-supervised with [Prof Carlos Maluquer de Motes](http://www.maluquerlab.org/), [Dr David king](), and [Dr Tom Maishman]()
 
 ### MSc
 #### AI institute
@@ -83,6 +85,7 @@ I am also glad to host postdocs who are interested in applying for relatively in
 ### MSc
 #### School of Biosciences
 * Lottie Venters (2025)
+  * First job as a graduate delivery manager for software projects in CEOX
 
 #### AI institute
 * Yasar Efe Pekgoz (2024)
@@ -91,7 +94,9 @@ I am also glad to host postdocs who are interested in applying for relatively in
 ### Undergraduate
 #### School of Biosciences
 * Francesca Buot (2025)
-* Beyza Erkal (2024)
+* Beyza Erkal (2024) 
+   * The Royal Society of Biology Top Project Prize for the dissertation
+   * Accepted to Durham University for MSc in data science (Bioinformatics and Biological Modelling)
 * Kareem Richardson (2024)
 
 
