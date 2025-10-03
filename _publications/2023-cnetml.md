@@ -5,7 +5,7 @@ permalink: /publications/2023-cnetml
 date: 2023-06-20
 venue: 'Genome Biology'
 paperurl: 'https://doi.org/10.1186/s13059-023-02983-0'
-citation: 'Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes. CNETML: maximum likelihood inference of phylogeny from copy number profiles of multiple samples. Genome Biol 24, 144 (2023). https://doi.org/10.1186/s13059-023-02983-0'
+citation: 'Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes. CNETML: maximum likelihood inference of phylogeny from copy number profiles of multiple samples. Genome Biol 24, 144 (2023).'
 ---
 
 # Abstract
