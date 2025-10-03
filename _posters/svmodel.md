@@ -1,6 +1,5 @@
 ---
-title: "Cell-cycle dependent DNA repair and replication unifies
-patterns of chromosome instability"
+title: "Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability"
 collection: posters
 type: "Poster"
 permalink: /posters/svmodel
