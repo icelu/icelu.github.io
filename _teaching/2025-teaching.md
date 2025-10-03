@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Analytical and Clinical Biochemistry"
+title: "Analytical and Clinical Biochemistry"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-teaching

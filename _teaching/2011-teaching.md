@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Discrete Mathematics"
+title: "Discrete Mathematics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-teaching

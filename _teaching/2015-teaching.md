@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Programming Methodology"
+title: "Programming Methodology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-teaching
