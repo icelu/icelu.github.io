@@ -35,6 +35,8 @@ Please do not hesitate to email me a short cover letter and CV.
   * Measuring poxvirus evolution using machine learning and pangenomics (main supervisor)
   * Machine learning methods for the prediction of viral epidemic potential in global surveillance systems (second supervisor)
   * Retroviromics: developing new computational approaches to understand and address high consequence retroviral threats (second supervisor) -->
+
+* [The Professor GQ Max Lu Global Scholarship (postgraduate)](https://www.surrey.ac.uk/fees-and-funding/scholarships-and-bursaries/professor-gq-max-lu-global-scholarship-postgraduate)
   
 * [China Scholarship Council-Surrey Awards](https://www.surrey.ac.uk/fees-and-funding/studentships/china-scholarship-council-surrey-awards) 
   * [Biosciences and Medicine PhD](https://www.surrey.ac.uk/postgraduate/biosciences-and-medicine-phd)  
@@ -63,11 +65,7 @@ I am also glad to host postdocs who are interested in applying for relatively in
   * co-supervised with [Prof Carlos Maluquer de Motes](http://www.maluquerlab.org/), [Dr David king](), and [Dr Tom Maishman]()
 
 ### MSc
-#### AI institute
-* Anand Shah
-* Arya Brijith Kumar
-* Jomchai Chongthanakorn
-
+<!-- #### AI institute -->
 
 ### Undergraduate
 #### School of Biosciences
@@ -88,6 +86,9 @@ I am also glad to host postdocs who are interested in applying for relatively in
   * First job as a graduate delivery manager for software projects in CEOX
 
 #### AI institute
+* Anand Shah (2025)
+* Arya Brijith Kumar (2025)
+* Jomchai Chongthanakorn (2025)
 * Yasar Efe Pekgoz (2024)
 
 

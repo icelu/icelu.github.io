@@ -24,11 +24,11 @@ Using copy number alterations (CNAs) as markers, we have developed [CNETML](http
 With the recent MRC award, we will develop more realistic models of  evolution that integrate CNAs at different levels and Bayesian methods that support variable CNA rates in time. 
 
 ### References:
-* Bingxin Lu. (2024). Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data. Cancer Pathogenesis and Therapy, 2, E27-E77. https://doi.org/10.1016/j.cpt.2024.04.003
+* __Bingxin Lu__. (2024). [Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data](https://doi.org/10.1016/j.cpt.2024.04.003). Cancer Pathogenesis and Therapy, 2, E27-E77. 
 
-* Cheng Zhao, Darren P. Ennis, Bingxin Lu, Hasan B. Mirza, Chishimba Sokota, Baljeet Kaur, Naveena Singh et al. (2024). The genomic trajectory of ovarian high grade serous carcinoma can be observed in STIC lesions. The Journal of Pathology. https://doi.org/10.1002/path.6322
+* Cheng Zhao, Darren P. Ennis, __Bingxin Lu__, Hasan B. Mirza, Chishimba Sokota, Baljeet Kaur, Naveena Singh et al. (2024). [The genomic trajectory of ovarian high grade serous carcinoma can be observed in STIC lesions](https://doi.org/10.1002/path.6322). The Journal of Pathology. 
 
-* Bingxin Lu, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes (2023). CNETML: maximum likelihood inference of phylogeny from copy number profiles of multiple samples. Genome Biology, 24, 144. https://doi.org/10.1186/s13059-023-02983-0.
+* __Bingxin Lu__, Kit Curtius, Trevor A. Graham, Ziheng Yang, Chris P. Barnes (2023). [CNETML: maximum likelihood inference of phylogeny from copy number profiles of multiple samples](https://doi.org/10.1186/s13059-023-02983-0). Genome Biology, 24, 144. 
 
 
 ## Computational modelling of human genomes
@@ -49,11 +49,11 @@ We are also interested in applying the latest genomic language models to tackle 
 
 
 ### References:
-* Bingxin Lu, Samuel Winnall, William Cross, Chris P. Barnes (2025). Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability. Nature Communications, 16(3033). https://doi.org/10.1038/s41467-025-58245-z
+* __Bingxin Lu__, Samuel Winnall, William Cross, Chris P. Barnes (2025). [Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability](https://doi.org/10.1038/s41467-025-58245-z). Nature Communications, 16(3033). 
 
-* William Cross\*, Salpie Nowinski\*, George Cresswell\*, Maximilian Mossner\*, Abhirup Banerjee\*, Bingxin Lu\*, et al. (2024). Negative selection may cause grossly altered but broadly stable karyotypes in metastatic colorectal cancer. bioRxiv: https://doi.org/10.1101/2020.03.26.007138. (* co-first authors)
+* William Cross\*, Salpie Nowinski\*, George Cresswell\*, Maximilian Mossner\*, Abhirup Banerjee\*, __Bingxin Lu\*__, et al. (2024). [Negative selection may cause grossly altered but broadly stable karyotypes in metastatic colorectal cancer](https://doi.org/10.1101/2020.03.26.007138). bioRxiv. (* co-first authors)
 
-* Yannik Bollen, Ellen Stelloo, Petra van Leenen, Bas Ponsioen, Myrna van den Bos, Bingxin Lu, et al. (2021). Reconstructing single-cell karyotype alterations in colorectal cancer identifies punctuated and gradual diversification patterns. Nature Genetics, 53(8), 1187-1195. https://doi.org/10.1038/s41588-021-00891-2.
+* Yannik Bollen, Ellen Stelloo, Petra van Leenen, Bas Ponsioen, Myrna van den Bos, __Bingxin Lu__, et al. (2021). [Reconstructing single-cell karyotype alterations in colorectal cancer identifies punctuated and gradual diversification patterns](https://doi.org/10.1038/s41588-021-00891-2). Nature Genetics, 53(8), 1187-1195. 
 
 
 ## Investigating intratumour heterogeneity and clonal evolution in cancer genomes
@@ -75,17 +75,16 @@ We are interested in developing new methods to decompose ITH and decipher clonal
 
 
 ### References:
-* Kasper Karlsson, Moritz Przybilla, Eran Kotler, Aziz Khan, Hang Xu, Kremena Karagyozova,
-Alexandra Sockell, Wing H. Wong, Katherine Liu, Amanda Mah, Yuan-Hung Lo, Bingxin Lu, et al. (2023). Deterministic evolution and stringent selection during preneoplasia. Nature, 618, 383–393. https://doi.org/10.1038/s41586-023-06102-8.
+* Kasper Karlsson, Moritz Przybilla, Eran Kotler, Aziz Khan, Hang Xu, Kremena Karagyozova, Alexandra Sockell, Wing H. Wong, Katherine Liu, Amanda Mah, Yuan-Hung Lo, __Bingxin Lu__, et al. (2023). [Deterministic evolution and stringent selection during preneoplasia](https://doi.org/10.1038/s41586-023-06102-8). Nature, 618, 383–393. 
 
-* Jianbin Chen, Neslihan Arife Kaya, Ying Zhang, Raden Indah Kendarsari, Karthik Sekar, Shay Lee Chong, Veerabrahma Pratap Seshachalam, Wen Huan Ling, Cheryl Zi Jin Phua, Hannah Lai, Hechuan Yang, Bingxin Lu, et al. (2024). A multimodal atlas of hepatocellular carcinoma reveals convergent evolutionary paths and ‘bad apple’ effect on clinical trajectory. Journal of Hepatology, 4(81), 667-678. https://doi.org/10.1016/j.jhep.2024.05.017
+* Jianbin Chen, Neslihan Arife Kaya, Ying Zhang, Raden Indah Kendarsari, Karthik Sekar, Shay Lee Chong, Veerabrahma Pratap Seshachalam, Wen Huan Ling, Cheryl Zi Jin Phua, Hannah Lai, Hechuan Yang, __Bingxin Lu__, et al. (2024). [A multimodal atlas of hepatocellular carcinoma reveals convergent evolutionary paths and ‘bad apple’ effect on clinical trajectory](https://doi.org/10.1016/j.jhep.2024.05.017). Journal of Hepatology, 4(81), 667-678. 
 
 
-* Weiwei Zhai\*, Hannah Lai\*, Neslihan Arife Kaya\*, Jianbin Chen\*, Hechuan Yang\*, Bingxin Lu\*, et al. (2022). Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in Hepatocellular Carcinoma: the PLANET study. National Science Review, 9(3), nwab192. https://academic.oup.com/nsr/article/9/3/nwab192/6414014. (* co-first authors)
+* Weiwei Zhai\*, Hannah Lai\*, Neslihan Arife Kaya\*, Jianbin Chen\*, Hechuan Yang\*, __Bingxin Lu\*__, et al. (2022). [Dynamic phenotypic heterogeneity and the evolution of multiple RNA subtypes in Hepatocellular Carcinoma: the PLANET study](https://academic.oup.com/nsr/article/9/3/nwab192/6414014). National Science Review, 9(3), nwab192.  (* co-first authors)
 
-* Jianbin Chen, Hechuan Yang, Audrey Su Min Teo, Lidyana Bte Amer, Faranak Ghazi Sherbaf, Chu Quan Tan, Jacob Josiah Santiago Alvarez, Bingxin Lu, et al. (2020). Genomic landscape and ethnic specificity of lung adenocarcinoma in Asia. Nature Genetics, 52(2), 177-186. https://doi.org/10.1038/s41588-019-0569-6.
+* Jianbin Chen, Hechuan Yang, Audrey Su Min Teo, Lidyana Bte Amer, Faranak Ghazi Sherbaf, Chu Quan Tan, Jacob Josiah Santiago Alvarez, __Bingxin Lu__, et al. (2020). [Genomic landscape and ethnic specificity of lung adenocarcinoma in Asia](https://doi.org/10.1038/s41588-019-0569-6). Nature Genetics, 52(2), 177-186. 
 
-* Hechuan Yang, Bingxin Lu, Lan Huong Lai, Abner Herbert Lim, Jacob Josiah Santiago Alvarez, Weiwei Zhai (2019). PSiTE: A phylogeny guided simulator for tumor evolution. Bioinformatics, 35(17), 3148-3150. https://doi.org/10.1093/bioinformatics/btz028.
+* Hechuan Yang, __Bingxin Lu__, Lan Huong Lai, Abner Herbert Lim, Jacob Josiah Santiago Alvarez, Weiwei Zhai (2019). [PSiTE: A phylogeny guided simulator for tumor evolution](https://doi.org/10.1093/bioinformatics/btz028). Bioinformatics, 35(17), 3148-3150. 
 
 
 ## Understanding the evolution of microbial genomes 
@@ -103,12 +102,11 @@ We are also interested in developing and applying new methods to other important
 
 
 ### References:
-* Bingxin Lu, Hon Wai Leong (2018). GI-Cluster: detecting genomic islands via consensus clustering on multiple features. Journal of Bioinformatics and Computational Biology, 16(03), 1840010. https://doi.org/10.1142/S0219720018400103.
+* __Bingxin Lu__, Hon Wai Leong (2018). [GI-Cluster: detecting genomic islands via consensus clustering on multiple features](https://doi.org/10.1142/S0219720018400103). Journal of Bioinformatics and Computational Biology, 16(03), 1840010. 
 
-* Bingxin Lu, Hon Wai Leong (2016). Computational methods for predicting genomic islands in microbial genomes. Computational and Structural Biotechnology Journal, 14:200-206. https://doi.org/10.1016/j.csbj.2016.05.001.
+* __Bingxin Lu__, Hon Wai Leong (2016). [Computational methods for predicting genomic islands in microbial genomes](https://doi.org/10.1016/j.csbj.2016.05.001). Computational and Structural Biotechnology Journal, 14:200-206. 
 
-* Bingxin Lu, Hon Wai Leong (2016). GI-SVM: A sensitive method for predicting genomic islands
-based on unannotated sequence of a single genome. Journal of Bioinformatics and Computational Biology, 14(01), 1640003. https://doi.org/10.1142/S0219720016400035.
+* __Bingxin Lu__, Hon Wai Leong (2016). [GI-SVM: A sensitive method for predicting genomic islands based on unannotated sequence of a single genome](https://doi.org/10.1142/S0219720016400035). Journal of Bioinformatics and Computational Biology, 14(01), 1640003. 
 
 
 
@@ -128,11 +126,11 @@ We are interested in solving other related problems.
 
 
 ### References:
-* Andreas D.M. Gunawan, Bingxin Lu, Louxin Zhang (2018). Fast methods for solving the Cluster Containment Problem for phylogenetic networks. arXiv:1801.04498. https://doi.org/10.48550/arXiv.1801.04498.
+* Andreas D.M. Gunawan, __Bingxin Lu__, Louxin Zhang (2018). [Fast methods for solving the Cluster Containment Problem for phylogenetic networks](https://doi.org/10.48550/arXiv.1801.04498). arXiv:1801.04498. 
 
-* Bingxin Lu, Louxin Zhang, HonWai Leong (2017). A program to compute the soft Robinson–Foulds distance between phylogenetic networks. BMC Genomics, 18(2), 111. https://doi.org/10.1186/s12864-017-3500-5.
+* __Bingxin Lu__, Louxin Zhang, HonWai Leong (2017). [A program to compute the soft Robinson–Foulds distance between phylogenetic networks](https://doi.org/10.1186/s12864-017-3500-5). BMC Genomics, 18(2), 111. 
 
-* Andreas D.M. Gunawan\*, Bingxin Lu\*, Louxin Zhang (2016). A program for verification of phylogenetic network models. Bioinformatics, 32(17), i503-i510. https://doi.org/10.1093/bioinformatics/btw467. (* co-first authors) 
+* Andreas D.M. Gunawan\*, __Bingxin Lu\*__, Louxin Zhang (2016). [A program for verification of phylogenetic network models](https://doi.org/10.1093/bioinformatics/btw467). Bioinformatics, 32(17), i503-i510.  (* co-first authors) 
 
 
 
@@ -146,10 +144,10 @@ Despite multiple options and drugs to treat cancer, treatments often fail due to
 
 
 ### References:
-* Jinwen Feng, Chen Ding, Naiqi Qiu, Xiaotian Ni, Dongdong Zhan, Wanlin Liu, Xia Xia, Peng Li, Bingxin Lu, et al. (2017). Firmiana: Towards a one-stop proteomic cloud platform for data processing and analysis. Nature Biotechnology, 35(5), 409-412. https://doi.org/10.1038/nbt.3825.
+* Jinwen Feng, Chen Ding, Naiqi Qiu, Xiaotian Ni, Dongdong Zhan, Wanlin Liu, Xia Xia, Peng Li, __Bingxin Lu__, et al. (2017). [Firmiana: Towards a one-stop proteomic cloud platform for data processing and analysis](https://doi.org/10.1038/nbt.3825). Nature Biotechnology, 35(5), 409-412. 
 
 
-* Bingxin Lu, Zhenbing Zeng, Tieliu Shi (2013). Comparative study of de novo assembly and genome guided assembly strategies for transcriptome reconstruction based on RNA-Seq. Science China Life Sciences, 56(2), 143-155. https://doi.org/10.1007/s11427-013-4442-z.
+* __Bingxin Lu__, Zhenbing Zeng, Tieliu Shi (2013). [Comparative study of de novo assembly and genome guided assembly strategies for transcriptome reconstruction based on RNA-Seq](https://doi.org/10.1007/s11427-013-4442-z). Science China Life Sciences, 56(2), 143-155. 
 
 
 
@@ -164,5 +162,5 @@ SVs often alter large genomic regions and play an important role in both species
 </figure>
 
 Due to the extreme variety of SVs, graph-based genome representation provides a natural way to analyze SVs, but the utilities of these graphs have not been fully exploited.
-We are interested in developing new approaches to better understand the patterns and mechanisms of SVs with genome graphs.
+We are interested in developing new approaches to better understand the patterns and mechanisms of SVs using genome graphs.
 
