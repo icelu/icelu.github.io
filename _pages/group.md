@@ -31,6 +31,10 @@ Please do not hesitate to email me a short cover letter and CV.
 
 
 ### PhD
+* [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/wessex-one-health-doctoral-landscape-programme/available-studentships) (Deadline: 23 Jan 2026)
+  * Exploring poxvirus evolutionary landscape using artificial intelligence and pangenomics 
+  
+
 <!-- * [Wessex One Health Doctoral Landscape PhD Studentships](https://www.surrey.ac.uk/bbsrc-wessex-one-health-doctoral-landscape-award) (Deadline: 28 Feb 2025)
   * Measuring poxvirus evolution using machine learning and pangenomics (main supervisor)
   * Machine learning methods for the prediction of viral epidemic potential in global surveillance systems (second supervisor)
@@ -66,6 +70,9 @@ I am also glad to host postdocs who are interested in applying for relatively in
 
 ### MSc
 <!-- #### AI institute -->
+#### School of Biosciences
+* Jaipal Kooner
+
 
 ### Undergraduate
 #### School of Biosciences
@@ -76,6 +83,14 @@ I am also glad to host postdocs who are interested in applying for relatively in
   <!-- ![Parfait](/images/Tass_ISMB2025.jpeg) -->
   <img src="/images/Tass_ISMB2025.jpeg" alt="Parfait" width="50%"/>
   
+* FYP students
+  * Alyssa Ulewich
+  * Ayra Qureshi
+  * Christopher Wagstaff 
+  * Jason Bombusa 
+  * Olivia Thomas
+  * Olivia Thompson 
+
 
 
 ### Graduated students 
